@@ -1,0 +1,10 @@
+{
+  "name": "com.codex.split-rig-retargeter",
+  "version": "0.9.9",
+  "displayName": "Split Rig to Mixamo Retargeter",
+  "description": "Retargets split rigs to Mixamo and repairs animation on its original skeleton, with switchable Chinese and English UI.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Codex"
+  }
+}

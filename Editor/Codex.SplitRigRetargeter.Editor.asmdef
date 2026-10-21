@@ -1,0 +1,8 @@
+{
+  "name": "Codex.SplitRigRetargeter.Editor",
+  "rootNamespace": "Codex.SplitRigRetargeter",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
